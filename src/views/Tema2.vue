@@ -108,7 +108,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/8.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 También denominado hipótesis de empresa en funcionamiento, es un principio del marco conceptual bajo las Normas Internacionales de Información Financiera (NIIF), el cual hace referencia a la continuidad de la empresa y su intención en ningún momento es liquidar o recortar la escala de sus operaciones. En Colombia desde el mismo momento que se registra una empresa en la Cámara de Comercio o en notaría se estipula cuándo inicia y cuándo termina sus actividades.
+        p.mb-0 También denominado hipótesis de empresa en funcionamiento, es un principio del marco conceptual bajo las Normas Internacionales de Información Financiera (NIIF), el cual hace referencia a la continuidad de la empresa y su intención en ningún momento es liquidar o recortar la escala de sus operaciones. En Colombia, desde el mismo momento en que se registra una empresa en la Cámara de Comercio o en notaría, se estipula cuándo inicia y cuándo terminan sus actividades.
     
     separador
     

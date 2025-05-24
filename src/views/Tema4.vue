@@ -261,7 +261,7 @@
               p.mb-0 Importes procedentes de la emisión de acciones.
             li.d-flex
               i.fas.fa-check-circle.bg-color-14
-              p.mb-0 cobros procedentes de la emisión de obligaciones sin garantía, préstamos, bonos, cédulas hipotecarias y otros fondos tomados en préstamo, ya sea a largo o a corto plazo.
+              p.mb-0 Cobros procedentes de la emisión de obligaciones sin garantía, préstamos, bonos, cédulas hipotecarias y otros fondos tomados en préstamo, ya sea a largo o a corto plazo.
             li.d-flex
               i.fas.fa-check-circle.bg-color-14
               p.mb-0 Pagos por adquirir o rescatar las acciones de la entidad.

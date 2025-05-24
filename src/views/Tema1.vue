@@ -165,7 +165,7 @@
             figure
               img(src="@/assets/curso/temas/tema1/13.svg", data-aos="zoom-in")
           .col-lg-8
-            p(data-aos="fade-left") El Estado de resultados es muy importante en la organización teniendo en cuenta que refleja el resultado final en un periodo determinado. En la elaboración de este, se puede presentar utilidad o pérdida del ejercicio, una vez se hayan restado los costos y gastos de los ingresos generados por la empresa.
+            p(data-aos="fade-left") El Estado de resultados es muy importante en la organización, teniendo en cuenta que refleja el resultado final en un periodo determinado. En la elaboración de este, se puede presentar utilidad o pérdida del ejercicio, una vez se hayan restado los costos y gastos de los ingresos generados por la empresa.
             p Por otro, para su elaboración se tiene en cuenta el cálculo del impuesto de renta y reservas obligatorias, de acuerdo con el tipo de empresa y el grupo de presentación de información financiera. 
         
             .bg-color-1.p-4(data-aos="fade-left")
@@ -187,21 +187,21 @@
                 .col-lg-auto
                   img(src="@/assets/curso/temas/tema1/14.svg", style="max-width: 90px").mx-auto
                 .col-lg
-                  p.mb-0 Algunas ganancias y pérdidas que surjan de la conversión de los estados financieros de un negocio en el extranjero (véase la Sección 30 Conversión de Moneda Extranjera).
+                  p.mb-0 Algunas ganancias y pérdidas que surjan de la conversión de los estados financieros de un negocio en el extranjero (véase la sección 30, conversión de moneda extranjera).
             .bg-color-10.tarjeta.p-4.mb-3(data-aos="fade-left")
               .row.align-items-start
                 .col-lg-auto
                   img(src="@/assets/curso/temas/tema1/15.svg", style="max-width: 90px").mx-auto
                 .col-lg
-                  p.mb-0 Algunas ganancias y pérdidas actuariales (véase la Sección 28 Beneficios a los Empleados).
+                  p.mb-0 Algunas ganancias y pérdidas actuariales (véase la sección 28, beneficios a los empleados).
             .bg-color-10.tarjeta.p-4.mb-3(data-aos="fade-left")
               .row.align-items-start
                 .col-lg-auto
                   img(src="@/assets/curso/temas/tema1/16.svg", style="max-width: 90px").mx-auto
                 .col-lg
-                  p.mb-0 Algunos cambios en los valores razonables de los instrumentos de cobertura (véase la Sección 12 Otros Temas relacionados con los Instrumentos Financieros).
+                  p.mb-0 Algunos cambios en los valores razonables de los instrumentos de cobertura (véase la sección 12, otros temas relacionados con los instrumentos financieros).
     
-    .row.mb-5
+    .row.mb-5.align-items-center
       .col-lg-4.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/temas/tema1/17.svg", data-aos="zoom-in")
@@ -216,13 +216,13 @@
               i.fas.fa-quote-right
             .bloque-texto-d__autor 
               p.mb-0 (NIC/NIIF, 2020, p. 29).
-          p Para profundizar sobre la temática, se recomienda explorar el siguiente enlace: 
+          //- p Para profundizar sobre la temática, se recomienda explorar el siguiente enlace: 
 
-          a.anexo.mb-4.mb-lg-0(href="https://www.nicniif.org/home/normas/niif-para-las-pymes.html" target="_blank")
-            .anexo__icono
-              img(src="@/assets/template/icono-link.svg")
-            .anexo__texto
-              p <b>Enlace web</b>. NIIF para las PYMES.
+          //- a.anexo.mb-4.mb-lg-0(href="https://www.nicniif.org/home/normas/niif-para-las-pymes.html" target="_blank")
+          //-   .anexo__icono
+          //-     img(src="@/assets/template/icono-link.svg")
+          //-   .anexo__texto
+          //-     p <b>Enlace web</b>. NIIF para las PYMES.
     
     p En la Norma Internacional de Contabilidad (NIC) 1, aplicable al grupo 1 (NIIF plenas) de presentación de información financiera, se determina que (CTCP, 2020):
 
@@ -337,7 +337,7 @@
               p.mb-0 Pérdidas por deterioro.
             li.mb-0.d-flex
               i.fas.fa-check-circle.bg-color-14
-              p.mb-0 participación en el resultado del periodo de las asociadas y negocios conjuntos que se contabilicen por el método de la participación.
+              p.mb-0 Participación en el resultado del periodo de las asociadas y negocios conjuntos que se contabilicen por el método de la participación.
             li.mb-0.d-flex
               i.fas.fa-check-circle.bg-color-14
               p.mb-0 Impuestos.
@@ -397,7 +397,7 @@
           div(numero="2" titulo="Cuerpo del informe").p-4
             .titulo-sexto.color-acento-contenido
               h5 Figura 4.
-              span Cuerpo del informe
+              span Tabla de estado de resultados integral
             figure.mb-5
               img(src="@/assets/curso/temas/tema1/30.svg", data-aos="zoom-in", alt="Tabla comparativa de un estado de resultados integral con múltiples columnas que agrupan ingresos, costos, gastos operativos, resultados financieros, impuestos y beneficio o pérdida del ejercicio.")
               figcaption Fuente. Tomada de Godoy (2014).
@@ -436,20 +436,20 @@
               h5 Figura 5.
               span Cuerpo del informe
             figure.mb-5
-              img(src="@/assets/curso/temas/tema1/31.png", data-aos="zoom-in", alt="Imagen con tres espacios designados para firmas correspondientes al representante legal, contador público y revisor fiscal, cada uno con su respectiva línea de firma, título, número de tarjeta profesional (TP) y nota adicional en el caso del revisor fiscal indicando “Ver opinión adjunta”.")
+              img(src="@/assets/curso/temas/tema1/31.png", alt="Imagen con tres espacios designados para firmas correspondientes al representante legal, contador público y revisor fiscal, cada uno con su respectiva línea de firma, título, número de tarjeta profesional (TP) y nota adicional en el caso del revisor fiscal indicando “Ver opinión adjunta”.")
               figcaption Fuente. Tomada de Godoy (2014).
             p Dentro de las disposiciones legales vigentes aplicables a los estados financieros encontramos: 
 
             ul.lista-ul--color
               li.mb-0.d-flex
                 i.fas.fa-check-circle.bg-color-14
-                p.mb-0 Firma del Representante Legal. 
+                p.mb-0 Firma del representante legal. 
               li.mb-0.d-flex
                 i.fas.fa-check-circle.bg-color-14
-                p.mb-0 Firma del Contador Público con número de la tarjeta profesional T.P - T (titulado) o A (aceptado); los últimos son personas que estudian y luego se presentan a la junta central de contadores para desarrollar un exámen (personas empíricas) y,
+                p.mb-0 Firma del Contador Público con número de la tarjeta profesional T.P-T (titulado) o A (aceptado); los últimos son personas que estudian y luego se presentan a la junta central de contadores para desarrollar un exámen (personas empíricas).
               li.mb-0.d-flex
                 i.fas.fa-check-circle.bg-color-14
-                p.mb-0 Firma de Revisor Fiscal con número de tarjeta profesional, quien da fe pública de las cifras allí registradas en los Estados Financieros en este caso el Estado de Resultado Integral, emitiendo un dictamen. Acogiéndose a las normas colombianas: (Ley 222 de 1995, artículos 37 y 38 y Decreto 2649 de 1993, artículo 33).  
+                p.mb-0 Firma de revisor fiscal con número de tarjeta profesional, quien da fe pública de las cifras allí registradas en los Estados Financieros en este caso el Estado de Resultado Integral, emitiendo un dictamen. Acogiéndose a las normas colombianas: (Ley 222 de 1995, artículos 37 y 38 y Decreto 2649 de 1993, artículo 33).  
     
     p.mb-5  El Estado de resultados integral, se puede presentar por “naturaleza” o por “función”, acorde con la empresa y sus lineamientos, los cuales se relacionan a continuación: 
 
@@ -490,7 +490,7 @@
                   h3.mb-1.bg-color-25 Estado de resultados por naturaleza de los gastos.
                   p.text-white En el siguiente anexo podrá ver la estructura general del estado de resultados por naturaleza de los gastos. 
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fecored-sena.github.io%2FCF15_GESTION_CONTABLE%2Fdownloads%2Festructura-general-estado.xls&wdOrigin=BROWSELINK" target="_blank")
+                  a.boton.color-acento-botones.text-negro(href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fecored-sena.github.io%2FCF15_GESTION_CONTABLE%2Fdownloads%2Festructura-general-estado.xls&wdOrigin=BROWSELINK" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
     
@@ -511,7 +511,7 @@
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
         h3.titulo-con-imagen__texto Estado de resultado integral por función de los gastos
-    p.mb-5 De acuerdo con las Normas Internacionales de Información Financiera (NIIF), este método presenta de forma discriminada en el ámbito local (Colombia) los ingresos ordinarios, costos de venta y costos de administración. De igual forma, se presentan los ingresos financieros, los gastos financieros, las diferencias de cambio en moneda extranjera, revelando así los registros contables que hacen parte de este estado de resultado integral por función.
+    p.mb-5 De acuerdo con las Normas Internacionales de Información Financiera (NIIF), este método presenta de forma discriminada en el ámbito local (Colombia) los ingresos ordinarios, costos de venta y costos de administración. De igual forma, se presentan los ingresos financieros, los gastos financierosy  las diferencias de cambio en moneda extranjera, revelando así los registros contables que hacen parte de este estado de resultado integral por función.
 
     .row.mb-5
       .col-lg-5.mb-3.mb-lg-0
@@ -519,8 +519,8 @@
           img(src="@/assets/curso/temas/tema1/35.svg", data-aos="zoom-in")
       .col-lg-7
         .bg-color-1.p-5.mb-3(data-aos="fade-left")
-          p.mb-0 Para esto se considera la dimensión jurídica acorde con los lineamientos del Código de Comercio (Congreso de la República de Colombia, 2020).proyecto.
-        p(data-aos="fade-left") Para realizar el estado de resultados es importante haber surtido el proceso del ciclo contable, donde se tiene en cuenta: el registro de los hechos económicos con base a los soportes contables originados en la transacción, seguidamente el registro en los libros de contabilidad, el balance de comprobación, ajustes y, finalmente, el comprobante de cierre para empezar a elaborar los estados financieros.
+          p.mb-0 Para esto se considera la dimensión jurídica acorde con los lineamientos del Código de Comercio (Congreso de la República de Colombia, 2020).
+        p(data-aos="fade-left") Para realizar el estado de resultados es importante haber surtido el proceso del ciclo contable, donde se tiene en cuenta: el registro de los hechos económicos con base en los soportes contables originados en la transacción, seguidamente el registro en los libros de contabilidad, el balance de comprobación, ajustes y, finalmente, el comprobante de cierre para empezar a elaborar los estados financieros.
         p(data-aos="fade-left") El primer estado que se debe elaborar es el estado de resultados, teniendo en cuenta los saldos presentados en las cuentas de ingresos, gastos y costos y la estructura elegida para su presentación. Al final se obtiene el resultado, que puede ser ganancia o pérdida.
     
     .tarjeta.bg-color-24.p-3
@@ -533,7 +533,7 @@
               h3.mb-1.bg-color-25 Estado de resultados por función de los gastos.
               p.text-white En el siguiente anexo podrá ver la estructura general del estado de resultados por función de los gastos.
             .col-sm-auto
-              a.boton.color-acento-botones.texto-blanco(href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fecored-sena.github.io%2FCF15_GESTION_CONTABLE%2Fdownloads%2Festructura-general-estado-funcion.xls&wdOrigin=BROWSELINK " target="_blank")
+              a.boton.color-acento-botones(href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fecored-sena.github.io%2FCF15_GESTION_CONTABLE%2Fdownloads%2Festructura-general-estado-funcion.xls&wdOrigin=BROWSELINK " target="_blank")
                 span Descargar
                 i.fas.fa-file-download
     
@@ -610,7 +610,7 @@
             .lista-ol--cuadro__vineta
               span A
             span.text-bold Desglose por naturaleza de los gastos
-            p.ms-4.mt-3 Según este método de clasificación, los gastos se agruparán en el estado del resultado integral de acuerdo con su naturaleza (por ejemplo, depreciación, compras de materiales, costos de transporte, beneficios a los empleados y costos de publicidad d) y no se redistribuirán entre las diferentes funciones dentro de la entidad (NIC NIIF, 2020).
+            p.ms-4.mt-3 Según este método de clasificación, los gastos se agruparán en el estado del resultado integral de acuerdo con su naturaleza (por ejemplo, depreciación, compras de materiales, costos de transporte, beneficios a los empleados y costos de publicidad) y no se redistribuirán entre las diferentes funciones dentro de la entidad (NIC NIIF, 2020).
         .row.mb-5
           .col-lg-4.order-2
             figure
@@ -621,7 +621,7 @@
                 .lista-ol--cuadro__vineta
                   span B
                 span.text-bold Desglose por función de los gastos
-                p.ms-4.mt-3 Según este método de clasificación, los gastos se agruparán de acuerdo con su función como parte del costo de las ventas o, por ejemplo, de los costos de actividades de distribución o administración. Como mínimo una entidad revelará, según este método, su costo de ventas de forma separada de otros gastos (NIC NIIF, 2020).
+                p.ms-4.mt-3 Según este método de clasificación, los gastos se agruparán de acuerdo con su función como parte del costo de las ventas o, por ejemplo, de los costos de actividades de distribución o administración. Como mínimo, una entidad revelará, según este método, su costo de ventas de forma separada de otros gastos (NIC NIIF, 2020).
                 p.ms-4 Una entidad revelará el importe del impuesto a las ganancias relativo a cada partida de otro resultado integral, incluyendo los ajustes por reclasificación, en el estado del resultado del periodo y otro resultado integral o en las notas (CTCP, 2020).
         
         h5.ms-4 De igual manera, las revelaciones que se presentarán de forma separada son (CTCP, 2020):
