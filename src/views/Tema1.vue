@@ -237,50 +237,50 @@
             p Cambios en el superávit de revaluación (véase la NIC 16 Propiedades, Planta y Equipo y la NIC 38 Activos Intangibles).
           .col-md-auto
             figure
-              img(src='@/assets/curso/temas/tema1/18.svg', style="max-width: 90px", alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema1/18.svg', style="max-width: 90px", alt='')
         .row.justify-content-center
           .col-md-8.mb-4.mb-md-0
             p Nuevas mediciones de los planes de beneficios definidos (véase la NIC 19 Beneficios a los Empleados).
           .col-md-auto
             figure
-              img(src='@/assets/curso/temas/tema1/19.svg', style="max-width: 90px", alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema1/19.svg', style="max-width: 90px", alt='')
         .row.justify-content-center
           .col-md-8.mb-4.mb-md-0
             p Ganancias y pérdidas producidas por la conversión de los estados financieros de un negocio en el extranjero (véase la NIC 21 Efectos de la Variación en las Tasas de Cambio de la Moneda Extranjera).
           .col-md-auto
             figure
-              img(src='@/assets/curso/temas/tema1/20.svg', style="max-width: 90px", alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema1/20.svg', style="max-width: 90px", alt='')
         .row.justify-content-center
           .col-md-8.mb-4.mb-md-0
             p Las ganancias y pérdidas procedentes de inversiones en instrumentos de patrimonio designados a valor razonable con cambios en otro resultado integral de acuerdo con el párrafo 5.7.5 de la NIIF 9. Instrumentos Financieros; (da) las ganancias y pérdidas sobre activos financieros medidos al valor razonable con cambios en otro resultado integral de acuerdo con el párrafo 4.1.2A de la NIIF 9. 
 
           .col-md-auto
             figure
-              img(src='@/assets/curso/temas/tema1/21.svg', style="max-width: 90px", alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema1/21.svg', style="max-width: 90px", alt='')
         .row.justify-content-center
           .col-md-8.mb-4.mb-md-0
             p La parte efectiva de las ganancias y pérdidas de los instrumentos de cobertura en una cobertura de flujos de efectivo y las ganancias y pérdidas de los instrumentos de cobertura que cubren inversiones en instrumentos de patrimonio medidos a valor razonable con cambios en otro resultado integral de acuerdo con el párrafo 5.7.5 de NIIF 9 (véase el Capítulo 6 de la NIIF 9).
           .col-md-auto
             figure
-              img(src='@/assets/curso/temas/tema1/22.svg', style="max-width: 90px", alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema1/22.svg', style="max-width: 90px", alt='')
         .row.justify-content-center
           .col-md-8.mb-4.mb-md-0
             p Para pasivos particulares designados como a valor razonable con cambios en resultados, el importe del cambio en el valor razonable que sea atribuible a cambios en el riesgo de crédito del pasivo (véase el párrafo 5.7.7 de la NIIF 9).
           .col-md-auto
             figure
-              img(src='@/assets/curso/temas/tema1/23.svg', style="max-width: 90px", alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema1/23.svg', style="max-width: 90px", alt='')
         .row.justify-content-center
           .col-md-8.mb-4.mb-md-0
             p Los cambios en el valor temporal de las opciones al separar el valor intrínseco y el valor temporal de un contrato de opción y la designación como el instrumento de cobertura solo de los cambios en el valor intrínseco (véase el Capítulo 6 de la NIIF 9).
           .col-md-auto
             figure
-              img(src='@/assets/curso/temas/tema1/24.svg', style="max-width: 90px", alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema1/24.svg', style="max-width: 90px", alt='')
         .row.justify-content-center
           .col-md-8.mb-4.mb-md-0
             p Los cambios en el valor de los elementos a término de contratos a término al separar el elemento a término y el elemento al contado de un contrato a término y la designación como el instrumento de cobertura solo de los cambios en el elemento al contado, y los cambios en el valor del diferencial de la tasa de cambio de la moneda extranjera de un instrumento financiero al excluirlo de la designación de ese instrumento financiero como el instrumento de cobertura (véase el Capítulo 6 de la NIIF 9).
           .col-md-auto
             figure
-              img(src='@/assets/curso/temas/tema1/25.svg', style="max-width: 90px", alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema1/25.svg', style="max-width: 90px", alt='')
     
 
     separador
@@ -552,7 +552,7 @@
         .bg-color-1.p-4(data-aos="fade-left")
           p.mb-0 Las revelaciones separadas de los valores de ingresos y/o egresos, se expresan en las NIIF para pymes (NIC NIIF, 2020):
     
-    h5.mb-5 “Una entidad revelará por separado las siguientes partidas en el estado del resultado integral como distribuciones para el periodo:
+    h5.mb-5 Una entidad revelará por separado las siguientes partidas en el estado del resultado integral como distribuciones para el periodo:
 
     .row.justify-content-center
       .col-sm-6.col-lg-4.mb-4.mb-lg-0
