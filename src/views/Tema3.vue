@@ -37,8 +37,11 @@
                 li.d-flex
                   .lista-ol--cuadro__vineta
                     span C
-                  | para cada componente del patrimonio, una conciliación entre los importes en libros, al inicio y al final del periodo, revelando por separado (como mínimo) los cambios resultantes de. 
-
+                  | [Eliminado] 
+                li.d-flex
+                  .lista-ol--cuadro__vineta
+                    span D
+                  | Para cada componente del patrimonio, una conciliación entre los importes en libros, al inicio y al final del periodo, revelando por separado (como mínimo) los cambios resultantes de: 
                 ul.ms-4.lista-ul--color
                   li.mb-0.d-flex
                     i.fas.fa-check-circle.bg-color-14
