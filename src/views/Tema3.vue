@@ -83,7 +83,8 @@
     p.mb-4 El estado de cambios en el patrimonio debe ser identificable y comprensible para la adecuada toma de decisiones, teniendo en cuenta los estándares internacionales, el cual refleja la siguiente información:
     
     .row.justify-content-center
-          .col-12.col-sm-6.col-md-4.col-lg-3.col-xl-2.mb-4
+        .row.d-flex.flex-wrap.justify-content-between.fila-tarjetas
+          .col-sm-6.col-lg-auto.mb-4(style="flex: 0 0 20%; max-width: 20%; min-width: 200px;")
             //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
             //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
             //- estas clases tambien tienen un modificador --borde
@@ -95,7 +96,7 @@
 
               p Nombre de la empresa o razón social y los cambios presentados en el periodo anterior respecto a dicha información.
 
-          .col-12.col-sm-6.col-md-4.col-lg-3.col-xl-2.mb-4
+          .col-sm-6.col-lg-auto.mb-4(style="flex: 0 0 20%; max-width: 20%; min-width: 200px;")
             //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
             //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
             //- estas clases tambien tienen un modificador --borde
@@ -107,7 +108,7 @@
 
               p Expresar si el estado financiero pertenece a una entidad individual o a un grupo.
 
-          .col-12.col-sm-6.col-md-4.col-lg-3.col-xl-2.mb-4
+          .col-sm-6.col-lg-auto.mb-4(style="flex: 0 0 20%; max-width: 20%; min-width: 200px;")
             //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
             //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
             //- estas clases tambien tienen un modificador --borde
@@ -118,7 +119,7 @@
                     img(src='@/assets/curso/temas/tema3/6.svg', alt='Texto que describa la imagen')
               p Fecha del cierre del periodo sobre el que se informa.
 
-          .col-12.col-sm-6.col-md-4.col-lg-3.col-xl-2.mb-4
+          .col-sm-6.col-lg-auto.mb-4(style="flex: 0 0 20%; max-width: 20%; min-width: 200px;")
             //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
             //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
             //- estas clases tambien tienen un modificador --borde
@@ -129,7 +130,7 @@
                     img(src='@/assets/curso/temas/tema3/7.svg', alt='Texto que describa la imagen')
               p Moneda de presentación de acuerdo con las bases establecidas en la NIC 21.
 
-          .col-12.col-sm-6.col-md-4.col-lg-3.col-xl-2.mb-4
+          .col-sm-6.col-lg-auto.mb-4(style="flex: 0 0 20%; max-width: 20%; min-width: 200px;")
             //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
             //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
             //- estas clases tambien tienen un modificador --borde
