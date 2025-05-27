@@ -83,58 +83,59 @@
     p.mb-4 El estado de cambios en el patrimonio debe ser identificable y comprensible para la adecuada toma de decisiones, teniendo en cuenta los estándares internacionales, el cual refleja la siguiente información:
     
     .row.justify-content-center
-      .col-lg-10
-        .row.justify-content-center
-          .col-sm-6.col-lg-4.mb-4 
+          .col-12.col-sm-6.col-md-4.col-lg-3.col-xl-2.mb-4
             //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
             //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
             //- estas clases tambien tienen un modificador --borde
             .tarjeta--boton.bg-color-10.p-4.h-100
               .row.justify-content-center.mb-3
-                .col-5
+                .col-7
                   figure
                     img(src='@/assets/curso/temas/tema3/4.svg', alt='Texto que describa la imagen')
 
               p Nombre de la empresa o razón social y los cambios presentados en el periodo anterior respecto a dicha información.
 
-          .col-sm-6.col-lg-4.mb-4 
+          .col-12.col-sm-6.col-md-4.col-lg-3.col-xl-2.mb-4
             //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
             //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
             //- estas clases tambien tienen un modificador --borde
             .tarjeta--boton.bg-color-10.p-4.h-100
               .row.justify-content-center.mb-3
-                .col-5
+                .col-7
                   figure
                     img(src='@/assets/curso/temas/tema3/5.svg', alt='Texto que describa la imagen')
 
               p Expresar si el estado financiero pertenece a una entidad individual o a un grupo.
-          .col-sm-6.col-lg-4.mb-4 
+
+          .col-12.col-sm-6.col-md-4.col-lg-3.col-xl-2.mb-4
             //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
             //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
             //- estas clases tambien tienen un modificador --borde
             .tarjeta--boton.bg-color-10.p-4.h-100
               .row.justify-content-center.mb-3
-                .col-5
+                .col-7
                   figure
                     img(src='@/assets/curso/temas/tema3/6.svg', alt='Texto que describa la imagen')
               p Fecha del cierre del periodo sobre el que se informa.
-          .col-sm-6.col-lg-4.mb-4 
+
+          .col-12.col-sm-6.col-md-4.col-lg-3.col-xl-2.mb-4
             //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
             //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
             //- estas clases tambien tienen un modificador --borde
             .tarjeta--boton.bg-color-10.p-4.h-100
               .row.justify-content-center.mb-3
-                .col-5
+                .col-7
                   figure
                     img(src='@/assets/curso/temas/tema3/7.svg', alt='Texto que describa la imagen')
               p Moneda de presentación de acuerdo con las bases establecidas en la NIC 21.
-          .col-sm-6.col-lg-4.mb-4 
+
+          .col-12.col-sm-6.col-md-4.col-lg-3.col-xl-2.mb-4
             //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
             //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
             //- estas clases tambien tienen un modificador --borde
             .tarjeta--boton.bg-color-10.p-4.h-100
               .row.justify-content-center.mb-3
-                .col-5
+                .col-7
                   figure
                     img(src='@/assets/curso/temas/tema3/8.svg', alt='Texto que describa la imagen')
               p El nivel de redondeo de las cifras de los estados financieros en millones y miles de pesos (CTCP, 2020).
