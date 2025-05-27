@@ -90,7 +90,7 @@
             //- estas clases tambien tienen un modificador --borde
             .tarjeta--boton.bg-color-10.p-4.h-100
               .row.justify-content-center.mb-3
-                .col-7
+                .col-8
                   figure
                     img(src='@/assets/curso/temas/tema3/4.svg', alt='Texto que describa la imagen')
 
@@ -102,7 +102,7 @@
             //- estas clases tambien tienen un modificador --borde
             .tarjeta--boton.bg-color-10.p-4.h-100
               .row.justify-content-center.mb-3
-                .col-7
+                .col-8
                   figure
                     img(src='@/assets/curso/temas/tema3/5.svg', alt='Texto que describa la imagen')
 
@@ -114,7 +114,7 @@
             //- estas clases tambien tienen un modificador --borde
             .tarjeta--boton.bg-color-10.p-4.h-100
               .row.justify-content-center.mb-3
-                .col-7
+                .col-8
                   figure
                     img(src='@/assets/curso/temas/tema3/6.svg', alt='Texto que describa la imagen')
               p Fecha del cierre del periodo sobre el que se informa.
@@ -125,7 +125,7 @@
             //- estas clases tambien tienen un modificador --borde
             .tarjeta--boton.bg-color-10.p-4.h-100
               .row.justify-content-center.mb-3
-                .col-7
+                .col-8
                   figure
                     img(src='@/assets/curso/temas/tema3/7.svg', alt='Texto que describa la imagen')
               p Moneda de presentación de acuerdo con las bases establecidas en la NIC 21.
@@ -136,7 +136,7 @@
             //- estas clases tambien tienen un modificador --borde
             .tarjeta--boton.bg-color-10.p-4.h-100
               .row.justify-content-center.mb-3
-                .col-7
+                .col-8
                   figure
                     img(src='@/assets/curso/temas/tema3/8.svg', alt='Texto que describa la imagen')
               p El nivel de redondeo de las cifras de los estados financieros en millones y miles de pesos (CTCP, 2020).
