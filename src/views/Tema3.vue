@@ -250,10 +250,10 @@
       .col-lg-12
         .titulo-sexto.color-acento-contenido
           h5 Tabla 1.
-          span Estado de cambios en el patrimonio de la Empresa Distribuidora, S. A.
+          span Estado de cambios en el patrimonio de la Empresa Distribuidora S. A.
         .tabla-b.color-acento-contenido
           .tabla-b__header
-            h4.mb-0 Empresa Distribuidora, S.A estado de cambios en el patrimonio por los períodos terminados en diciembre 31
+            h4.mb-0 Empresa Distribuidora S.A estado de cambios en el patrimonio por los períodos terminados en diciembre 31
             p Expreso en miles de pesos
           table
             caption Nota. Tomada de Estupiñán (2017).
@@ -267,14 +267,7 @@
                 th Superávit
                 th Total
             thead.bg-color-23
-              tr
-                th(width="30%") Cambios en el patrimonio
-                th Capital
-                th Reservas
-                th Patrimonio
-                th Retenidas
-                th Valorizacion
-                th Patrimonio
+              
             tbody
               tr
                 td Saldo a diciembre 31 del Año 0
@@ -286,43 +279,43 @@
                 td.text-end.px-3 9,829,623
               tr
                 td Revalorización patrimonio del año
-                td
-                td
+                td.text-end.px-3 - 
+                td.text-end.px-3 -
                 td.text-end.px-3 252,700
-                td
-                td
+                td.text-end.px-3 -
+                td.text-end.px-3 -
                 td.text-end.px-3 252,700
               tr
                 td Creación de Reserva Legal
-                td
-                td
-                td
-                td
-                td
+                td.text-end.px-3 -
+                td.text-end.px-3 -
+                td.text-end.px-3 -
+                td.text-end.px-3 -
+                td.text-end.px-3 -
                 td.text-end.px-3 0
               tr
                 td Pago de dividendos
-                td
-                td
-                td
-                td
-                td
+                td.text-end.px-3 -
+                td.text-end.px-3 -
+                td.text-end.px-3 -
+                td.text-end.px-3 -
+                td.text-end.px-3 -
                 td.text-end.px-3 0
               tr
                 td Ajuste a las valorizaciones
-                td
-                td
-                td
-                td
+                td.text-end.px-3 -
+                td.text-end.px-3 -
+                td.text-end.px-3 -
+                td.text-end.px-3 -
                 td.text-end.px-3 562,166
                 td.text-end.px-3 562,166
               tr
                 td Utilidad del ejercicio
-                td
-                td
-                td
+                td.text-end.px-3 -
+                td.text-end.px-3 -
+                td.text-end.px-3 -
                 td.text-end.px-3 173,369
-                td
+                td.text-end.px-3 -
                 td.text-end.px-3 173,369
               tr
                 td Saldo a diciembre 31 del Año 1
@@ -334,43 +327,43 @@
                 td.text-end.px-3 10,817,858
               tr
                 td Revalorización patrimonio del año
-                td
-                td
+                td.text-end.px-3 -
+                td.text-end.px-3 -
                 td.text-end.px-3 258,063
-                td
-                td
+                td.text-end.px-3 -
+                td.text-end.px-3 -
                 td.text-end.px-3 258,063
               tr
                 td Creación de Reserva Legal
-                td
+                td.text-end.px-3 -
                 td.text-end.px-3 17,337
-                td
+                td.text-end.px-3 -
                 td.text-end.px-3 -17,337
-                td
+                td.text-end.px-3 -
                 td.text-end.px-3 0
               tr
                 td Pago de dividendos
-                td
-                td
-                td
-                td
-                td
+                td.text-end.px-3 -
+                td.text-end.px-3 -
+                td.text-end.px-3 -
+                td.text-end.px-3 -
+                td.text-end.px-3 -
                 td.text-end.px-3 0
               tr
                 td Ajuste a las valorizaciones
-                td
-                td
-                td
-                td
+                td.text-end.px-3 -
+                td.text-end.px-3 -
+                td.text-end.px-3 -
+                td.text-end.px-3 -
                 td.text-end.px-3 1,269,904
                 td.text-end.px-3 1,269,904
               tr
                 td Utilidad del ejercicio
-                td
-                td
-                td
+                td.text-end.px-3 -
+                td.text-end.px-3 -
+                td.text-end.px-3 -
                 td.text-end.px-3 331,684
-                td
+                td.text-end.px-3 -
                 td.text-end.px-3 331,684
               tr.text-bold
                 td Saldo a diciembre 31 del año 2
@@ -405,7 +398,7 @@
             li.d-flex
               .lista-ol--cuadro__vineta
                 span C
-              | Para cada componente del patrimonio, una conciliación entre los importes en libros, al inicio y al final del periodo, revelando por separado (como mínimo) los cambios resultantes de. 
+              | Para cada componente del patrimonio, una conciliación entre los importes en libros, al inicio y al final del periodo, revelando por separado (como mínimo) los cambios resultantes de: 
 
             ul.ms-4.lista-ul--color
               li.mb-0.d-flex

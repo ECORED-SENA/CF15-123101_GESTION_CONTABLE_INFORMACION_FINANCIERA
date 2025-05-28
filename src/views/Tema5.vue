@@ -59,7 +59,7 @@
             li.d-flex
               .lista-ol--cuadro__vineta
                 span C
-              | Seguir el orden de las partidas del estado (estados) del resultado del periodo y otro resultado integral y del estado de situación financiera, tal como.
+              | Seguir el orden de las partidas del estado (estados) del resultado del periodo y otro resultado integral y del estado de situación financiera, tal como:
           ul.ms-4.lista-ul--color
             li.mb-0.d-flex
               i.fas.fa-check-circle.bg-color-14

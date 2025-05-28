@@ -455,17 +455,12 @@
           h3 Por solvencia
           p La solvencia es la capacidad de un individuo o empresa para atender sus compromisos de pago con los acreedores, es decir, sus deudas.
           h5 Se identifica de la siguiente manera:
-        
           a.anexo.mb-4(href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fecored-sena.github.io%2FCF15_GESTION_CONTABLE%2Fdownloads%2Fpresentacion-por-solvencia.xls&wdOrigin=BROWSELINK" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-xls.svg")
             .anexo__texto
               p <b>Anexo.</b> Presentación por solvencia.
-          a.anexo.mb-4(href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fecored-sena.github.io%2FCF15_GESTION_CONTABLE%2Fdownloads%2Fejemplo-estado-situacion-financiera.xls&wdOrigin=BROWSELINK" target="_blank")
-            .anexo__icono
-              img(src="@/assets/template/icono-xls.svg")
-            .anexo__texto
-              p <b>Anexo.</b> Ejemplo estado de situación financiera.
+          
     
     .row.mb-5.justify-content-center
       .col-lg-10  
@@ -477,11 +472,11 @@
 
     .row.justify-content-center
       .col-lg-4
-        a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.mb-4(href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fecored-sena.github.io%2FCF15_GESTION_CONTABLE%2Fdownloads%2Fejemplo-estado-situacion-financiera.xls&wdOrigin=BROWSELINK" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-xls.svg")
           .anexo__texto
-            p <b>Anexo.</b> Estado de resultados por naturaleza de los gastos.
+            p <b>Anexo.</b> Anexo estado de situación financiera.
     
     separador
 
