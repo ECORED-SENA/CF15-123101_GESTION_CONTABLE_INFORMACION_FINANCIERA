@@ -259,13 +259,13 @@
             caption Nota. Tomada de Estupiñán (2017).
             thead.bg-color-27
               tr
-                th 
-                th 
-                th 
-                th Revalorizacion
-                th Utilidad
-                th Superávit
-                th Total
+                th Cambios en el patrimonio
+                th Capital
+                th Reservas
+                th Revalorizacion patrimonio
+                th Utilidades retenidas
+                th Superávit valorización
+                th Total patrimonio
             thead.bg-color-23
               
             tbody
