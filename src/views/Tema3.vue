@@ -262,7 +262,7 @@
                 th Cambios en el patrimonio
                 th Capital
                 th Reservas
-                th Revalorizacion patrimonio
+                th Revalorización patrimonio
                 th Utilidades retenidas
                 th Superávit valorización
                 th Total patrimonio
