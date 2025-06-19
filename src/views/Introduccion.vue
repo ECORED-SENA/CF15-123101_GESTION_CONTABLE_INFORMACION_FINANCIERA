@@ -123,11 +123,6 @@
         .bg-color-10.p-4
           p.mb-0 <b>Nota aclaratoria</b>: las tablas que se toman como referencia en los ejemplos en cada uno de los temas desarrollados, elaboradas mediante el programa Excel, son derivadas de los mismos, por lo tanto, no se numeran y la elaboración es propia, salvo donde se indique lo contrario.
 
-        
-          
-      
-        
-
 </template>
 
 <script>

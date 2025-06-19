@@ -435,7 +435,7 @@
                 img(src='@/assets/curso/temas/tema2/14.svg', alt='Texto que describa la imagen')
 
           h3 Por liquidez
-          p.mb-5  Es una cualidad que tienen los activos que figuran en el estado de situación financiera de un ente económico para convertirse en dinero de forma fácil. El estado se presenta de la siguiente forma:
+          p.mb-5 Es una cualidad que tienen los activos que figuran en el estado de situación financiera de un ente económico para convertirse en dinero de forma fácil. Para mayor profundización en el tema se sugiere revisar en la carpeta de anexos el documento XLS llamado Anexo 4 - Presentación por liquidez.
           a.anexo.mb-4(href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fecored-sena.github.io%2FCF15_GESTION_CONTABLE%2Fdownloads%2Fpresentacion-por-liquidez.xls&wdOrigin=BROWSELINK" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-xls.svg")
@@ -453,8 +453,7 @@
                 img(src='@/assets/curso/temas/tema2/15.svg', alt='Texto que describa la imagen')
 
           h3 Por solvencia
-          p La solvencia es la capacidad de un individuo o empresa para atender sus compromisos de pago con los acreedores, es decir, sus deudas.
-          h5 Se identifica de la siguiente manera:
+          p.mb-5 La solvencia es la capacidad de un individuo o empresa para atender sus compromisos de pago con los acreedores, es decir, sus deudas. Para mayor profundización en el tema se sugiere revisar en la carpeta de anexos el documento XLS llamado Anexo 5 - Presentación por solvencia.
           a.anexo.mb-4(href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fecored-sena.github.io%2FCF15_GESTION_CONTABLE%2Fdownloads%2Fpresentacion-por-solvencia.xls&wdOrigin=BROWSELINK" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-xls.svg")
@@ -505,12 +504,7 @@
               p.mb-0 Las provisiones, teniendo en cuenta separar los beneficios a empleado de los demás.
             li.d-flex.mb-0
               i.fas.fa-check-circle.bg-color-14
-              p.mb-0 El capital, reservas y primas de emisión (NIC1 .78). 
-    
-
-
-        
-        
+              p.mb-0 El capital, reservas y primas de emisión (NIC1 .78).
 
 </template>
 

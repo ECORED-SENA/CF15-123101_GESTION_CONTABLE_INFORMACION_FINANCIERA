@@ -191,19 +191,19 @@
                 .col-lg-auto
                   img(src="@/assets/curso/temas/tema1/14.svg", style="max-width: 90px").mx-auto
                 .col-lg
-                  p.mb-0 Algunas ganancias y pérdidas que surjan de la conversión de los estados financieros de un negocio en el extranjero (véase la sección 30, conversión de moneda extranjera).
+                  p.mb-0 Algunas ganancias y pérdidas que surjan de la conversión de los estados financieros de un negocio en el extranjero (se invita a consultar la sección 30, conversión de moneda extranjera, para profundizar sobre el tema).
             .bg-color-10.tarjeta.p-4.mb-3(data-aos="fade-left")
               .row.align-items-start
                 .col-lg-auto
                   img(src="@/assets/curso/temas/tema1/15.svg", style="max-width: 90px").mx-auto
                 .col-lg
-                  p.mb-0 Algunas ganancias y pérdidas actuariales (véase la sección 28, beneficios a los empleados).
+                  p.mb-0 Algunas ganancias y pérdidas actuariales (se invita a consultar la sección 28, beneficios a los empleados, para profundizar sobre el tema).
             .bg-color-10.tarjeta.p-4.mb-3(data-aos="fade-left")
               .row.align-items-start
                 .col-lg-auto
                   img(src="@/assets/curso/temas/tema1/16.svg", style="max-width: 90px").mx-auto
                 .col-lg
-                  p.mb-0 Algunos cambios en los valores razonables de los instrumentos de cobertura (véase la sección 12, otros temas relacionados con los instrumentos financieros).
+                  p.mb-0 Algunos cambios en los valores razonables de los instrumentos de cobertura (se invita a consultar la sección 12, otros temas relacionados con los instrumentos financieros, para profundizar sobre el tema).
     
     .row.mb-5.align-items-center
       .col-lg-4.mb-3.mb-lg-0
@@ -238,19 +238,19 @@
       PasosB.color-acento-contenido.tarjeta--gris.p-4
         .row.justify-content-center
           .col-md-8.mb-4.mb-md-0
-            p Cambios en el superávit de revaluación (véase la NIC 16 Propiedades, Planta y Equipo y la NIC 38 Activos Intangibles).
+            p Cambios en el superávit de revaluación (se invita a consultar la NIC 16 Propiedades, Planta y Equipo y la NIC 38 Activos Intangibles, para profundizar sobre el tema).
           .col-md-auto
             figure
               img(src='@/assets/curso/temas/tema1/18.svg', style="max-width: 90px", alt='')
         .row.justify-content-center
           .col-md-8.mb-4.mb-md-0
-            p Nuevas mediciones de los planes de beneficios definidos (véase la NIC 19 Beneficios a los Empleados).
+            p Nuevas mediciones de los planes de beneficios definidos (se invita a consultar la NIC 19 Beneficios a los Empleados, para profundizar sobre el tema).
           .col-md-auto
             figure
               img(src='@/assets/curso/temas/tema1/19.svg', style="max-width: 90px", alt='')
         .row.justify-content-center
           .col-md-8.mb-4.mb-md-0
-            p Ganancias y pérdidas producidas por la conversión de los estados financieros de un negocio en el extranjero (véase la NIC 21 Efectos de la Variación en las Tasas de Cambio de la Moneda Extranjera).
+            p Ganancias y pérdidas producidas por la conversión de los estados financieros de un negocio en el extranjero (se invita a consultar la NIC 21 Efectos de la Variación en las Tasas de Cambio de la Moneda Extranjera, para profundizar sobre el tema).
           .col-md-auto
             figure
               img(src='@/assets/curso/temas/tema1/20.svg', style="max-width: 90px", alt='')
@@ -263,25 +263,25 @@
               img(src='@/assets/curso/temas/tema1/21.svg', style="max-width: 90px", alt='')
         .row.justify-content-center
           .col-md-8.mb-4.mb-md-0
-            p La parte efectiva de las ganancias y pérdidas de los instrumentos de cobertura en una cobertura de flujos de efectivo y las ganancias y pérdidas de los instrumentos de cobertura que cubren inversiones en instrumentos de patrimonio medidos a valor razonable con cambios en otro resultado integral de acuerdo con el párrafo 5.7.5 de NIIF 9 (véase el Capítulo 6 de la NIIF 9).
+            p La parte efectiva de las ganancias y pérdidas de los instrumentos de cobertura en una cobertura de flujos de efectivo y las ganancias y pérdidas de los instrumentos de cobertura que cubren inversiones en instrumentos de patrimonio medidos a valor razonable con cambios en otro resultado integral de acuerdo con el párrafo 5.7.5 de NIIF 9 (se invita a consultar el Capítulo 6 de la NIIF 9, para profundizar sobre el tema).
           .col-md-auto
             figure
               img(src='@/assets/curso/temas/tema1/22.svg', style="max-width: 90px", alt='')
         .row.justify-content-center
           .col-md-8.mb-4.mb-md-0
-            p Para pasivos particulares designados como a valor razonable con cambios en resultados, el importe del cambio en el valor razonable que sea atribuible a cambios en el riesgo de crédito del pasivo (véase el párrafo 5.7.7 de la NIIF 9).
+            p Para pasivos particulares designados como a valor razonable con cambios en resultados, el importe del cambio en el valor razonable que sea atribuible a cambios en el riesgo de crédito del pasivo (se invita a consultar el párrafo 5.7.7 de la NIIF 9, para profundizar sobre el tema).
           .col-md-auto
             figure
               img(src='@/assets/curso/temas/tema1/23.svg', style="max-width: 90px", alt='')
         .row.justify-content-center
           .col-md-8.mb-4.mb-md-0
-            p Los cambios en el valor temporal de las opciones al separar el valor intrínseco y el valor temporal de un contrato de opción y la designación como el instrumento de cobertura solo de los cambios en el valor intrínseco (véase el Capítulo 6 de la NIIF 9).
+            p Los cambios en el valor temporal de las opciones al separar el valor intrínseco y el valor temporal de un contrato de opción y la designación como el instrumento de cobertura solo de los cambios en el valor intrínseco (se invita a consultar el Capítulo 6 de la NIIF 9, para profundizar sobre el tema).
           .col-md-auto
             figure
               img(src='@/assets/curso/temas/tema1/24.svg', style="max-width: 90px", alt='')
         .row.justify-content-center
           .col-md-8.mb-4.mb-md-0
-            p Los cambios en el valor de los elementos a término de contratos a término al separar el elemento a término y el elemento al contado de un contrato a término y la designación como el instrumento de cobertura solo de los cambios en el elemento al contado, y los cambios en el valor del diferencial de la tasa de cambio de la moneda extranjera de un instrumento financiero al excluirlo de la designación de ese instrumento financiero como el instrumento de cobertura (véase el Capítulo 6 de la NIIF 9).
+            p Los cambios en el valor de los elementos a término de contratos a término al separar el elemento a término y el elemento al contado de un contrato a término y la designación como el instrumento de cobertura solo de los cambios en el elemento al contado, y los cambios en el valor del diferencial de la tasa de cambio de la moneda extranjera de un instrumento financiero al excluirlo de la designación de ese instrumento financiero como el instrumento de cobertura (se invita a consultar el Capítulo 6 de la NIIF 9, para profundizar sobre el tema).
           .col-md-auto
             figure
               img(src='@/assets/curso/temas/tema1/25.svg', style="max-width: 90px", alt='')
@@ -312,7 +312,7 @@
           p <b>(-) Grupo 51</b> (administración) 
           p <b>(-) Grupo 52</b> (de ventas) 
           p <b>(-) Grupo 53</b> Gastos NO operacionales 
-          p.mb-0 <b>(-) Otros gastos ___________________________________</b>
+          p <b>(-) Otros gastos __________</b>
           p = Ganancia: 
           p <b>o</b>
           p <b>= Ganancias (pérdida)</b>
@@ -379,7 +379,7 @@
               h5 Figura 3.
               span Encabezado
             figure.mb-5
-              img(src="@/assets/curso/temas/tema1/29.png", data-aos="zoom-in", alt="Tabla con formato multicolumna que detalla un estado de resultados integral, incluyendo ingresos ordinarios, costos, gastos operativos, resultados financieros, beneficios o pérdidas antes y después de impuestos, operaciones discontinuadas y resultado del ejercicio. Cada columna representa diferentes periodos o entidades comparativas.")
+              img(src="@/assets/curso/temas/tema1/29.png", alt="Tabla con formato multicolumna que detalla un estado de resultados integral, incluyendo ingresos ordinarios, costos, gastos operativos, resultados financieros, beneficios o pérdidas antes y después de impuestos, operaciones discontinuadas y resultado del ejercicio. Cada columna representa diferentes periodos o entidades comparativas.")
               figcaption Fuente. Tomada de Godoy (2014).
             ul.lista-ul--color
               li.mb-0.d-flex
@@ -403,7 +403,7 @@
               h5 Figura 4.
               span Tabla de estado de resultados integral
             figure.mb-5
-              img(src="@/assets/curso/temas/tema1/30.svg", data-aos="zoom-in", alt="Tabla comparativa de un estado de resultados integral con múltiples columnas que agrupan ingresos, costos, gastos operativos, resultados financieros, impuestos y beneficio o pérdida del ejercicio.")
+              img(src="@/assets/curso/temas/tema1/30.svg", alt="Tabla comparativa de un estado de resultados integral con múltiples columnas que agrupan ingresos, costos, gastos operativos, resultados financieros, impuestos y beneficio o pérdida del ejercicio.")
               figcaption Fuente. Tomada de Godoy (2014).
             p Seguidamente se presenta el cuerpo del informe, teniendo en cuenta la información que recopila el estado de resultado integral, compuestos por:
 
@@ -416,7 +416,7 @@
                 p.mb-0 Cuentas de gastos, de la 51, 52 y 53.
               li.mb-0.d-flex
                 i.fas.fa-check-circle.bg-color-14
-                p.mb-0 La ganancia (utilidad) del ejercicio, o 
+                p.mb-0 La ganancia (utilidad) del ejercicio.
               li.mb-0.d-flex
                 i.fas.fa-check-circle.bg-color-14
                 p.mb-0 La ganancia o pérdida.  
@@ -554,7 +554,7 @@
         p(data-aos="fade-left") En el evento que las partidas tanto de ingresos como de gastos tengan importancia relativa, su naturaleza y valor se revelarán por separado. 
     
         .bg-color-1.p-4(data-aos="fade-left")
-          p.mb-0 Las revelaciones separadas de los valores de ingresos y/o egresos, se expresan en las NIIF para pymes (NIC NIIF, 2020):
+          p.mb-0 Las revelaciones separadas de los valores de ingresos y/o egresos, se expresan en las NIIF para pymes (NIC NIIF, 2020).
     
     h5.mb-5 Una entidad revelará por separado las siguientes partidas en el estado del resultado integral como distribuciones para el periodo:
 
@@ -602,7 +602,7 @@
         .bloque-texto-b.color-secundario.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h4.mb-0 “Una entidad presentará un desglose de gastos, utilizando una clasificación basada en la naturaleza o en la función de los gastos dentro de la entidad, lo que proporcione una información que sea fiable y más relevante”
+            h4.mb-0 Una entidad presentará un desglose de gastos, utilizando una clasificación basada en la naturaleza o en la función de los gastos dentro de la entidad, lo que proporcione una información que sea fiable y más relevante
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
             p.mb-0  (NIC NIIF, 2020).
@@ -663,29 +663,6 @@
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
                 p <b>Anexo.</b> Norma Internacional de Contabilidad (NIC) 1.
-
-
-        
-          
-          
-
-
-
-        
-    
-
-
-
-
-         
-    
-        
-
-
-
-
-
-
  
 </template>
 

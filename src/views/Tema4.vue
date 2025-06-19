@@ -444,9 +444,8 @@
                 td - Saldo clientes año 2
                 td.text-end.px-3  $ 7.000.000
               tr
-                td Total recaudo de clientes 
+                td Total recaudo de clientes
                 td.text-end.px-3  $10.000.000
-    
 
     .row.justify-content-center.mb-5
       .col-lg-10  

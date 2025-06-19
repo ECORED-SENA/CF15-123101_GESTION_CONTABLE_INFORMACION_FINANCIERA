@@ -177,7 +177,7 @@
           img(src="@/assets/curso/temas/tema3/11.svg", data-aos="zoom-in")
       .col-lg-8.order-1.mb-3.mb-lg-0
         .bg-color-1.p-4(data-aos="fade-left")
-          p Las empresas presentarán del estado de cambio en el patrimonio neto comparado a los usuarios internos y/o externos según el caso:
+          p Las empresas presentarán del estado de cambio en el patrimonio neto comparado a los usuarios internos y/o externos según el caso.
           a.anexo.mb-4(href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fecored-sena.github.io%2FCF15_GESTION_CONTABLE%2Fdownloads%2Festructura-estado-cambio-patrimonio.xls&wdOrigin=BROWSELINK " target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-xls.svg")
@@ -253,8 +253,8 @@
           span Estado de cambios en el patrimonio de la Empresa Distribuidora S. A.
         .tabla-b.color-acento-contenido
           .tabla-b__header
-            h4.mb-0 Empresa Distribuidora S.A estado de cambios en el patrimonio por los períodos terminados en diciembre 31
-            p Expreso en miles de pesos
+            h4.mb-0 Empresa Distribuidora S. A. Estado de cambios en el patrimonio por los períodos terminados en diciembre 31
+            p.mb-0 Expreso en miles de pesos
           table
             caption Nota. Tomada de Estupiñán (2017).
             thead.bg-color-27
@@ -410,7 +410,6 @@
               li.mb-0.d-flex
                 i.fas.fa-check-circle.bg-color-14
                 p.mb-0 Transacciones con los propietarios en su calidad de tales, mostrando por separado las contribuciones realizadas por los propietarios y las distribuciones a éstos y los cambios en las participaciones de propiedad en subsidiarias que no den lugar a una pérdida de control. Información para presentar en el estado de cambios en el patrimonio o en las notas. (NIC 1. 106).
-
     
 </template>
 

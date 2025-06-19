@@ -63,13 +63,13 @@
           ul.ms-4.lista-ul--color
             li.mb-0.d-flex
               i.fas.fa-check-circle.bg-color-14
-              p.mb-0 Una declaración de cumplimiento con las NIIF (véase el párrafo 16). 
+              p.mb-0 Una declaración de cumplimiento con las NIIF (se invita a consultar el párrafo 16, para profundizar sobre el tema).
             li.mb-0.d-flex
               i.fas.fa-check-circle.bg-color-14
-              p.mb-0 Las políticas contables significativas aplicadas (véase el párrafo 117). 
+              p.mb-0 Las políticas contables significativas aplicadas (se invita a consultar el párrafo 117, para profundizar sobre el tema).
             li.mb-0.d-flex
               i.fas.fa-check-circle.bg-color-14
-              p.mb-0 Información de apoyo para las partidas presentadas en los estados de situación financiera, el estado (estados) del resultado del periodo y otro resultado integral, y en los estados de cambios en el patrimonio y de flujos de efectivo, en el orden en que se presenta cada estado y cada partida; y otra información a revelar, incluyendo:(1) pasivos contingentes (véase la NIC 37) y compromisos contractuales no reconocidos; y (2) revelaciones de información no financiera, por ejemplo los objetivos y políticas de gestión del riesgo financiero (véase la NIIF 7).
+              p.mb-0 Información de apoyo para las partidas presentadas en los estados de situación financiera, el estado (estados) del resultado del periodo y otro resultado integral, y en los estados de cambios en el patrimonio y de flujos de efectivo, en el orden en que se presenta cada estado y cada partida; y otra información a revelar, incluyendo:(1) pasivos contingentes (se invita a consultar la NIC 37, para profundizar sobre el tema) y compromisos contractuales no reconocidos; y (2) revelaciones de información no financiera, por ejemplo los objetivos y políticas de gestión del riesgo financiero (se invita a consultar la NIIF 7, para profundizar sobre el tema).
     
     p.mb-5 Teniendo en cuenta el desarrollo de las notas y revelaciones a los estados financieros, a continuación, se hace una descripción para su desarrollo: 
 

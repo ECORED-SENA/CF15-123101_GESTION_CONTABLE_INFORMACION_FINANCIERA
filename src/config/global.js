@@ -252,7 +252,7 @@ export default {
     {
       tema: 'Marco normativo para estados financieros en Colombia',
       referencia:
-        'Presidencia de la República. (2015). Decreto 2420 de 2015: Por el cual se expide el DUR de las Normas de Contabilidad e Información Financiera. Diario Oficial No. 49.674.',
+        'Presidencia de la República. (2015). Decreto 2420 de 2015 Normas de contabilidad, de información financiera y de aseguramiento de información.',
       tipo: 'Página web',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=76745',
@@ -382,7 +382,7 @@ export default {
       referencia:
         'Presidencia de la República de Colombia. (23 de diciembre de 2015). Decreto 2420 de 2015 Único Reglamentario de las Normas de Contabilidad, de Información Financiera y de Aseguramiento de la Información',
       link:
-        'http://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Decretos/30019674',
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=76745',
     },
     {
       referencia:
@@ -392,8 +392,9 @@ export default {
     },
     {
       referencia:
-        'Presidencia de la República de Colombia. (27 de marzo de 1971). Decreto-Ley 410 de 1971, por el cual se expide el Código del Comercio. http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html',
-      link: '',
+        'Presidencia de la República de Colombia. (27 de marzo de 1971). Decreto-Ley 410 de 1971, por el cual se expide el Código del Comercio. ',
+      link:
+        'http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html',
     },
     {
       referencia:
